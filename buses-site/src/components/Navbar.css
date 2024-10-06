@@ -1,0 +1,35 @@
+
+
+  .navbar{
+    width: 100%;
+    background-color: aqua;
+  }
+    
+  
+  .nav-link {
+    border-radius: 15px 0px 0px 15px;
+    text-align: center;
+    margin-bottom: 2%;
+    padding:10px 0;;
+  }
+  
+  .nav-link.active {
+    border-radius: 15px 0px 0px 15px;
+    text-align: center;
+    background-color: pink;
+    margin-bottom: 2%;
+  }
+  
+  .column-content{
+    border-radius: 0px 0px 0px 15px;;
+    float: left;
+    width: 85%;
+    height: 100vh;
+    background-color: pink;
+    min-height: 900px;
+  }
+  .column-nav{
+    float: left;
+    width: 15%;
+    font-size: 40px;
+  }
