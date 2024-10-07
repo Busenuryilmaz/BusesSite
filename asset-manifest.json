@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BusesSite/static/css/main.99a78ea2.css",
+    "main.js": "/BusesSite/static/js/main.1631dba9.js",
+    "static/js/453.c5932eb1.chunk.js": "/BusesSite/static/js/453.c5932eb1.chunk.js",
+    "index.html": "/BusesSite/index.html",
+    "main.99a78ea2.css.map": "/BusesSite/static/css/main.99a78ea2.css.map",
+    "main.1631dba9.js.map": "/BusesSite/static/js/main.1631dba9.js.map",
+    "453.c5932eb1.chunk.js.map": "/BusesSite/static/js/453.c5932eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a78ea2.css",
+    "static/js/main.1631dba9.js"
+  ]
+}
