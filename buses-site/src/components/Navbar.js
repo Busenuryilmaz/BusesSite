@@ -6,16 +6,16 @@ const Navbar = () => {
 <div className = "navbar">
   <div class="column-nav">
     <div className='nav-link'>
-      <a href="/">About</a>
+      <a href="">About</a>
     </div>
     <div className='nav-link'>
-      <a href="/about">Audio</a>
+      <a href="">Audio</a>
     </div>
     <div className='nav-link'>
-      <a href="/video">Video</a>
+      <a href="">Video</a>
     </div>
     <div className='nav-link'>
-      <a href="/dev">Dev</a>
+      <a href="a">Dev</a>
     </div>
   </div>
 </div>
